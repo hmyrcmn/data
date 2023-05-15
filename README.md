@@ -10,5 +10,8 @@
 
 **Proje github link:** 
 https://github.com/hmyrcmn/data/tree/main
+
+<BR><BR>
 **Sunum Video Link:**
-https://youtu.be/2qi3j9n42RY
+
+[PROJE SUNUM VIDEO](https://youtu.be/7XgfzIiyd2M)
